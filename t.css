@@ -77,6 +77,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(200,61,178,1) 0%, rgb
     background: rgb(2,0,36);
  }
  .footer img {
-    width: 100%;
+    width: 70%;
     height: 500px;
+    text-align: center;
+    margin-left: 230px;
  }
